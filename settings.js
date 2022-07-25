@@ -24,23 +24,23 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "FathirBot" //namabot kalian
+global.ownername= "Fathir" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.instagram = "https://instagram.com/dkrialfthir_" //bebas asal jan hapus
+global.github = "https://github.com/Mdzikrialfathir/" //bebas
+global.email = "mdzikrialfathir0@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["622150996855","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.premium = ['62895810530608'] //premium user
+global.owner = ["62895810530608","6283121680340"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "62895810530608" // nomor wa kalian
+global.ownernomerr = "+6283121680340" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© Fathir' //sticker wm ubah
+global.author = 'Di Buat Oleh Fathir' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
