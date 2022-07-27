@@ -26,13 +26,13 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "FathirBot" //namabot kalian
 global.ownername= "Fathir" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://web-portofolio-project1.000webhostapp.com/" //bebas asal jan hapus
 global.instagram = "https://instagram.com/dkrialfthir_" //bebas asal jan hapus
 global.github = "https://github.com/Mdzikrialfathir/" //bebas
 global.email = "mdzikrialfathir0@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62895810530608'] //premium user
+global.premium = ['6283121680340'] //premium user
 global.owner = ["62895810530608","6283121680340"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "62895810530608" // nomor wa kalian
 global.ownernomerr = "+6283121680340" //nmr wa kalian
